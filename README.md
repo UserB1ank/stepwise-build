@@ -3,6 +3,7 @@
 > Learn by building, one verified step at a time.
 
 [中文](#中文) · [English](#english)
+<img width="755" height="1595" alt="image" src="https://github.com/user-attachments/assets/918ba07a-b355-40cd-a2a0-b8566f265696" />
 
 ## 中文
 
