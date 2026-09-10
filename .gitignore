@@ -1,0 +1,12 @@
+# Operating systems
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# Local agent state
+.codex/
+.claude/
